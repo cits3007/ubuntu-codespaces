@@ -13,5 +13,7 @@ versions of `gcc` and GNU `make`.
 - Select "Codespaces" from the tabs
 - Click the green "Create codespace on master" button 
 - GitHub Codespaces will download the Docker image and create an online IDE environment
+- Get a terminal prompt by selecting "+" and "bash" (towards the lower right of the VS Code
+  IDE)
 - In the terminal shell, `gcc` and `make` will be on your `PATH`.
 

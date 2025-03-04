@@ -1,0 +1,14 @@
+{
+  "name": "cits3007 dev container",
+  "image": "adstewart/cits3007-codespaces:latest",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools"
+      ]
+    }
+  },
+  "postCreateCommand": "echo 'Container setup complete!'"
+}
+
